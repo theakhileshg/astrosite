@@ -1,7 +1,7 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hey, Njaan Akhilesh!"
 meta_title: "About"
-description: "this is meta description"
+description: "this is enne kurich ulla doc"
 image: "/images/avatar.png"
 draft: false
 ---
